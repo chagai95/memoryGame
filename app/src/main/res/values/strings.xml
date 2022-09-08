@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="how_many_players">How many players?</string>
+    <string name="how_many_pairs">How many pairs?</string>
+    <string name="start_game">Start Game</string>
+    <string name="start_default_game">Start Default Game</string>
+</resources>
